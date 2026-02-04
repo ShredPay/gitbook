@@ -18,6 +18,8 @@
 * [Earn fees information](earn-fees-information.md)
 * [3rd Party Bank Processing Fee](3rd-party-bank-processing-fee.md)
 * [Buy / Sell Crypto Fees](buy-sell-crypto-fees.md)
+* [Withdraw Fees](withdraw-fees.md)
+* [Receive Fees](receive-fees.md)
 * [ShredPay Legal Documents](shredpay-legal-documents/README.md)
   * [ShredPay Terms of Service](shredpay-legal-documents/shredpay-terms-of-service.md)
   * [ShredPay Privacy Policy](shredpay-legal-documents/shredpay-privacy-policy.md)

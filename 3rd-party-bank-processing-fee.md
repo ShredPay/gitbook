@@ -14,4 +14,6 @@ $1,000 and above: 1%
 
 These fees reflect combined third-party bank processing costs (e.g. ACH and Debit Card fees), not a ShredPay platform fee.
 
+[test](risk-ratings-information.md)
+
 More information about ShredPay fees can be found [here](shredpay-legal-documents/shredpay-pricing-and-fee-disclosure.md).

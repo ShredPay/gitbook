@@ -15,7 +15,7 @@
 
 * [ShredPay DeFi Risk Ratings Methodology](shredpay-defi-risk-ratings-methodology.md)
 * [Risk ratings information](risk-ratings-information.md)
-* [Earn Yield  Fees](earn-yield-fees.md)
+* [Earn Yield  Feesxxxxxkhgfgfgdghckghfghkf](earn-yield-feesxxxxxkhgfgfgdghckghfghkf.md)
 * [3rd Party Bank Processing Fee](3rd-party-bank-processing-fee.md)
 * [Buy / Sell Crypto Fees](buy-sell-crypto-fees.md)
 * [Withdraw Fees](withdraw-fees.md)

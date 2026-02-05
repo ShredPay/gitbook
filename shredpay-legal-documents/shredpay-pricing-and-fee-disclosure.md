@@ -32,17 +32,15 @@ Fee Structure
 
 ShredPay charges fees as follows:
 
-| Product Feature               | Route         | Fee                                                                                                        |
-| ----------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| Deposit                       | USD ACH       | \~ $2 - $3                                                                                                 |
-| USD Debit Card                | \~ $2 - $3    |                                                                                                            |
-| USD / Crypto from Coinbase    | 0%            |                                                                                                            |
-| Crypto connect wallet         | 0%            |                                                                                                            |
-| Withdrawal                    | Crypto / USD  | 1%                                                                                                         |
-| Fiat                          | 1%            |                                                                                                            |
-| External wallet (crypto only) | 1%            |                                                                                                            |
-| Yield Earning Products        | DeFi protocol | <p>~ $0.02 - $0.05 Gas Fee</p><p><br></p><p>10% Performance Fee</p><p><br></p><p>0.75% Transaction Fee</p> |
-| Merchant                      | ShredPay app  | 1%                                                                                                         |
-| Buy / Sell Crypto             | DEX swap      | 1%                                                                                                         |
+| Product Feature                          | Route                                                                                                                                                            | Fee                                                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Deposit                                  | <p>USD ACH and Debit Card USD Deposit</p><p><br></p><p>Transaction Size:</p><p>$0 - $349.99</p><p>$350.00 - $499.99</p><p>$500.00 - $999.99</p><p>$1,000.00+</p> | <p><br><br></p><p>Bank Processing Fee</p><p>4.5%</p><p>3.0%</p><p>1.5%</p><p>1%</p>                        |
+| USD or stablecoin deposit from Coinbase  | 0%                                                                                                                                                               |                                                                                                            |
+| Stablecoin deposit from external wallet  | 0%                                                                                                                                                               |                                                                                                            |
+| Withdrawal                               | Fiat to bank account                                                                                                                                             | 1%                                                                                                         |
+| Stablecoin to external digital wallet    | 1%                                                                                                                                                               |                                                                                                            |
+| Yield Earning Products                   | DeFi protocol                                                                                                                                                    | <p>~ $0.02 - $0.05 Gas Fee</p><p><br></p><p>10% Performance Fee</p><p><br></p><p>0.75% Transaction Fee</p> |
+| Merchant                                 | ShredPay app                                                                                                                                                     | 1%                                                                                                         |
+| Buy / Sell Crypto                        | DEX swap                                                                                                                                                         | 1%                                                                                                         |
 
 <br>

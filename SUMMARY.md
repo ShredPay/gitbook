@@ -10,6 +10,8 @@
 * [Seamless USDC](yield-products/seamless-usdc.md)
 * [High Yield Clearstar USDC](yield-products/high-yield-clearstar-usdc.md)
 * [Re7 USDC](yield-products/re7-usdc.md)
+* [Edge UltraYield USD](yield-products/edge-ultrayield-usd.md)
+* [Clearstar USDC Reactor](yield-products/clearstar-usdc-reactor.md)
 
 ***
 

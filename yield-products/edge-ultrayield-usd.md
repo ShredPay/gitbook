@@ -20,4 +20,4 @@ The vault allocates deposits to Morpho Markets selected and managed by Edge Capi
 Yield is generated from borrower interest payments and may include additional incentive rewards depending on market conditions.
 
 🔗 **Morpho vault link:**\
-https://app.morpho.org/base/vault/0x5435BC53f2C61298167cdB11Cdf0Db2BFa259ca0/edge-ultrayield-usdc
+[https://app.morpho.org/base/vault/0x5435BC53f2C61298167cdB11Cdf0Db2BFa259ca0/edge-ultrayield-usdc](https://app.morpho.org/base/vault/0x5435BC53f2C61298167cdB11Cdf0Db2BFa259ca0/edge-ultrayield-usdc)

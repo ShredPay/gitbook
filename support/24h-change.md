@@ -15,8 +15,7 @@ layout:
     visible: true
   tags:
     visible: true
-metaLinks:
-  canonical: 24h-change.md
+metaLinks: {}
 ---
 
 # 24h Change:

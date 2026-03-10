@@ -1,6 +1,6 @@
 # ShredPay Terms of Service
 
-EFFECTIVE DATE: January 1, 2026
+EFFECTIVE DATE: March 3, 2026
 
 These Terms of Service (“Agreement”) are between, as applicable, ShredPay, Markets, LLC (“ShredPay Markets”), ShredPay Research, LLC (“ShredPay Research”) and ShredPay Liquid, LLC (“ShredPay Liquid”) (collectively, “ShredPay”, “we”, “us”, or “our”) and you, the individual (“you”, “your” or “User”). Certain Services may be provided or otherwise involve these ShredPay entities and/or other companies in our corporate group (“Affiliates”) and/or third-party partners and vendors. You authorize ShredPay to share any of your information with Affiliates and third-party partners and vendors for the purpose of carrying out certain Services that you request. For more information about how we share your information, please see our [Privacy Policy](shredpay-privacy-policy.md)
 

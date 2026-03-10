@@ -2,7 +2,6 @@
 metaLinks: {}
 ---
 
-# 24h Change:
+# 24-hour Change
 
-Your asset performance in the last 24 hours. Updated every 5 minutes. Deposits and withdrawals are not included.
-
+Your yield products' performance in the last 24 hours.  Updated every 5 minutes.

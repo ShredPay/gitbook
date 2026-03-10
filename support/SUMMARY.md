@@ -2,4 +2,4 @@
 
 * [Support Center](README.md)
 * [Why a $250 minimum?](why-a-usd250-minimum.md)
-* [24-hour Change](24-hour-change.md)
+* [Yield Products](yield-products.md)

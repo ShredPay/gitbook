@@ -20,23 +20,23 @@ For each DeFi protocol offered on the ShredPay platform, the individual findings
 
 #### Risk Rating:  Low Risk&#x20;
 
-Partners achieving this score demonstrate strength across all three layers at the time the rating is published.&#x20;
+Protocols, vaults, or markets achieving this score demonstrate strength across all three layers at the time the rating is published.&#x20;
 
 #### Risk Rating:  Medium-Low Risk
 
-Partners in this tier demonstrate strength in the significant majority of due diligence criteria but may have certain areas that may be marginally less robust at the time the rating is published.
+Protocols, vaults, or markets in this tier demonstrate strength in the significant majority of due diligence criteria but may have certain areas that may be marginally less robust at the time the rating is published.
 
 #### Risk Rating: Medium
 
-Partners in this tier exhibit strong performance in the majority of due diligence criteria but may have certain areas that are somewhat less robust at the time the rating is published.
+Protocols, vaults, or markets in this tier exhibit strong performance in the majority of due diligence criteria but may have certain areas that are somewhat less robust at the time the rating is published.
 
 #### Risk Rating: Medium-High
 
-Partners in this tier exhibit adequate performance in the majority of due diligence criteria but may have certain areas that could be more  robust at the time the rating is published.&#x20;
+Protocols, vaults, or markets in this tier exhibit adequate performance in the majority of due diligence criteria but may have certain areas that could be more  robust at the time the rating is published.&#x20;
 
 #### Risk Rating:  High Risk
 
-While these partners satisfy basic requirements, they present notable, elevated risks across multiple layers at the time the rating is published. These offerings may be riskier than the others listed, and users should exercise a higher degree of discretion and due diligence in their usage.
+While these protocols, vaults, or markets satisfy basic requirements, they present notable, elevated risks across multiple layers at the time the rating is published. These offerings may be riskier than the others listed, and users should exercise a higher degree of discretion and due diligence in their usage.
 
 \
 &#xNAN;_&#x49;mportant Disclosure: In issuing and maintaining its ShredPay DeFi Ratings, ShredPay relies on factual information it obtains from the third-party decentralized finance protocol and other publicly available sources that ShredPay believes to be credible. ShedPay conducts a reasonable investigation of the factual information relied upon by it in accordance with its ratings methodology, and obtains reasonable verification of that information from independent sources, to the extent such sources are available. A ShredPay DeFi Risk Rating does not constitute an individualized recommendation that a decentralized finance protocol deposit/transaction is appropriate for you. You agree not to hold ShredPay liable for any losses, lost profits or other damages resulting from your use of - or reliance upon - any ShredPay DeFi Rating._&#x20;

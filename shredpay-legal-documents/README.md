@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # ShredPay Legal Documents
 
 Links to Legal Documents:&#x20;

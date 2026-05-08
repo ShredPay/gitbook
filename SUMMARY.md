@@ -14,7 +14,7 @@
 * [Clearstar USDC Reactor](yield-products/clearstar-usdc-reactor.md)
 * [YieldNest RWA](yield-products/yieldnest-rwa.md)
 * [Sky.money USDC Risk Capital](yield-products/sky.money-usdc-risk-capital.md)
-* [HyperithmUSDC Degen](yield-products/clearstar-usdc-reactor-1.md)
+* [HyperithmUSDC Degen](yield-products/hyperithmusdc-degen.md)
 * [Steakhouse Reservoir USDC](yield-products/steakhouse-reservoir-usdc.md)
 
 ***

@@ -12,12 +12,16 @@
 * [Re7 USDC](yield-products/re7-usdc.md)
 * [Edge UltraYield USD](yield-products/edge-ultrayield-usd.md)
 * [Clearstar USDC Reactor](yield-products/clearstar-usdc-reactor.md)
+* [YieldNest RWA](yield-products/clearstar-usdc-reactor-1.md)
+* [Sky.money USDC Risk Capital](yield-products/clearstar-usdc-reactor-2.md)
+* [HyperithmUSDC Degen](yield-products/clearstar-usdc-reactor-3.md)
+* [Steakhouse Reservoir USDC](yield-products/clearstar-usdc-reactor-4.md)
 
 ***
 
 * [ShredPay DeFi Risk Ratings Methodology](shredpay-defi-risk-ratings-methodology.md)
 * [Risk ratings information](risk-ratings-information.md)
-* [Earn Yield  Fees](earn-yield-fees.md)
+* [Earn Yield Fees](earn-yield-fees.md)
 * [3rd Party Bank Processing Fee](3rd-party-bank-processing-fee.md)
 * [Buy / Sell Crypto Fees](buy-sell-crypto-fees.md)
 * [Withdraw Fees](withdraw-fees.md)
